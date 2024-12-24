@@ -1,0 +1,1 @@
+A orientada a objetos, ja que tem muitos objetos com características e interações de mudança entre objetos, oque caberia no conceito e funcionaria com classes
